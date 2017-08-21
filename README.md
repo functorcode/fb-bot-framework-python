@@ -96,7 +96,7 @@ def lambda_handler(event, context):
   bot.process_message(event)
 ```
 
-### Bot App - Handle message and reply
+### Bot App - Handle message and reply back
 ``` python
 import sys
 sys.path.insert(0, '../')
