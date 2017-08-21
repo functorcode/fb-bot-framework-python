@@ -1,5 +1,5 @@
 # fb-bot-framework-python
-fb_bot_framework-python is easy to integrate facebook messanger bot framework for python. You can use it with AWS Lambda, flask ,django etc.
+`fb_bot_framework-python` is easy to integrate facebook messenger bot framework for python. You can use it with AWS Lambda, flask ,django etc.
 
 ## Features
 * Easy to integrate with AWS Lambd, flask ,django etc..
